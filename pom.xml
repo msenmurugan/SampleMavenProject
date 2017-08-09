@@ -161,7 +161,7 @@
 						<hubTimeout>120</hubTimeout>
 						<createFlatDependencyList>false</createFlatDependencyList>
 						<createHubBdio>true</createHubBdio>
-						<deployHubBdio>false</deployHubBdio>
+						<deployHubBdio>true</deployHubBdio>
 						<checkPolicies>false</checkPolicies>
 						<createHubReport>false</createHubReport>
 						<hubScanTimeout>300</hubScanTimeout>
