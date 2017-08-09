@@ -150,7 +150,7 @@
 				<plugin>
 					<groupId>com.blackducksoftware.integration</groupId>
 					<artifactId>hub-maven-plugin</artifactId>
-					<version>2.0.0</version>
+					<version>2.0.2</version>
 					<inherited>false</inherited>
 					<configuration>
 						<hubIgnoreFailure>true</hubIgnoreFailure>
@@ -165,7 +165,6 @@
 						<checkPolicies>false</checkPolicies>
 						<createHubReport>false</createHubReport>
 						<hubScanTimeout>300</hubScanTimeout>
-						<includedScopes>compile,runtime</includedScopes>
 						<hubCodeLocationName>SampleMavenProject</hubCodeLocationName>
 					</configuration>
 				</plugin>
